@@ -47,11 +47,11 @@ const createEmployeePayrollJSON = () => {
 
         {
             "_id": 1,
-            "_name": "Prashanth N",
-            "_gender": "male",
+            "_name": "Megha",
+            "_gender": "female",
             "_department": [
                 "Engineer",
-                "Other"
+                "Finance"
             ],
             "_salary": "498700",
             "_startDate": "16 Oct 2021",
@@ -60,7 +60,7 @@ const createEmployeePayrollJSON = () => {
         },
         {
             "_id": 5,
-            "_name": "Jyothi",
+            "_name": "Gouri",
             "_gender": "female",
             "_department": [
                 "Sales",
